@@ -1,7 +1,7 @@
 How to Use CCleaner to Optimize and Clean Your PC Fast
 ----
 
-.. image:: getstart.png
+.. image:: get-start.png
    :alt: My Project Logo
    :width: 400px
    :align: center
